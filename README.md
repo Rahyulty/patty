@@ -14,7 +14,6 @@ Patty wraps [LuaRocks](https://luarocks.org) to give you a simple, familiar work
 - `patty.lock` lockfile for reproducible builds
 - Auto-generated `patty_loader.lua` so Lua can find your packages
 - Automatic `.gitignore` management
-- Spinner + clean output — no compiler noise
 - Windows support with automatic Visual Studio Build Tools detection
 
 ## Prerequisites
